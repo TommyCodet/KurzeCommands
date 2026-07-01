@@ -1,0 +1,13 @@
+commands:
+
+  admin:
+    command: "lp user {user} parent set admin"
+
+  mod:
+    command: "lp user {user} parent set moderator"
+
+  sup:
+    command: "lp user {user} parent set supporter"
+
+  mute:
+    command: "tempmute {user} 1d Test"
