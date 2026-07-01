@@ -1,0 +1,5 @@
+name: KurzeCommands
+version: 1.0.0
+main: de.txmmy.kurzecommands.KurzeCommands
+api-version: '1.21'
+author: Txmmy
